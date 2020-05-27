@@ -1,0 +1,3 @@
+import monitorerror from 'monitorerror'
+monitorerror(Vue, router, 'apikey');
+（router是项目里面的路由，apikey在生成项目后自动生成）
